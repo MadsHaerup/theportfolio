@@ -5,13 +5,8 @@
   </a>
 </p>
 <h1 align="center">
- My web development blog
+ My web portfolio
 </h1>
 
-
-Made with Gatsby and Netlify CMS to set up a quick blog site. 
-
-Follow this link to learn how to set it up yourself: https://www.freecodecamp.org/news/how-to-build-a-blog-with-gatsby-and-netlify-cms/
-
-And get started with your first blog post!
+This is my and coming portfolio website, which will include a personal blog, projects and so on
 <!-- AUTO-GENERATED-CONTENT:END -->

@@ -82,7 +82,7 @@ body {
   font-size: var(--fontSize-1);
   color: var(--color-text);
   background-color: #1a202c;
-  /* background-image: url(./images/bg.svg); */
+  background-image: url(./images/bg.svg);
   
 }
 

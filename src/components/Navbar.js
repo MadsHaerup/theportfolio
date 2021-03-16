@@ -8,7 +8,7 @@ export default function Navbar() {
     <div className="line"></div>
     <nav className="navbar">
       <div className="navbar__profileImg">
-        <img className="profileImg" src="https://picsum.photos/id/237/100/100" alt="a picture of me"/>
+        <img className="profileImg" src="https://picsum.photos/id/237/100/100" alt="me"/>
       </div>
       <ul className="navbar__ul">
         <li className="navbar__ul__listItem">

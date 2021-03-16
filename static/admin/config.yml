@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-  repo: 
+  repo: https://github.com/MadsHaerup/theportfolio
 media_folder: "images/uploads"
 
 collections:

@@ -1,0 +1,22 @@
+.backArrow{
+  background-color: transparent;
+  outline: none;
+  appearance: none;
+  border:none;
+  color: #fff;
+  padding:0;
+  transform: translateX(-10px);
+  position: absolute;
+  top: 5%;
+  display: flex;
+  align-items: center;
+  &__icon{
+    font-size: 1.5rem;
+    font-weight: 900;
+  }
+  &__text{
+    font-size: 0.6rem;
+    margin:0;
+  }
+}
+

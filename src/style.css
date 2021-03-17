@@ -265,6 +265,16 @@ a:focus {
 .post-list-item {
   margin-bottom: var(--spacing-8);
   margin-top: var(--spacing-8);
+  padding-left:1rem;
+
+  border-left: 5px solid transparent;
+  transition: border-color 0.5s ease-in 0.3s;
+
+
+}
+.post-list-item:hover{
+  border-color: #FF5400;
+
 }
 
 .post-list-item p {

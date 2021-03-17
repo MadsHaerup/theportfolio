@@ -50,14 +50,16 @@
     &__ul{
       width:100%;
       padding:0;
-      grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
+      font-size: 0.8rem;
+      grid-gap:0.8rem;
+      // grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
     }
   }
 }
 @media only screen and (max-width: 330px){
   .navbar{ 
     &__ul{
-      grid-template-columns: 1fr;
+    font-size: 0.6rem;
     }
   }
 }
